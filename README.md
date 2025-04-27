@@ -5,7 +5,7 @@ WDDataset.py - Network Loader (Load sensor measurements)
 
 wd-model.py - Train data using pytorch 
 
-*Can use other projects in repo for inference
+*Can use other projects in repo for reference
 
 # Inference (Use Eclipse MaximSDK 
 main.c - Used for inference with MPU6050 sensor measurement 
